@@ -1,0 +1,11 @@
+C:\Projects\DipCoater\csharp\bin\Debug\AxInterop.HIDagentXControl1.dll
+C:\Projects\DipCoater\csharp\bin\Debug\Interop.HIDagentXControl1.dll
+C:\Projects\DipCoater\csharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\DipCoater\csharp\obj\Debug\DipCoater.csproj.ResolveComReference.cache
+C:\Projects\DipCoater\csharp\obj\Debug\DipCoater.Properties.Resources.resources
+C:\Projects\DipCoater\csharp\obj\Debug\DipCoater.MainForm.resources
+C:\Projects\DipCoater\csharp\obj\Debug\DipCoater.csproj.GenerateResource.Cache
+C:\Projects\DipCoater\csharp\bin\Debug\DipCoater.exe
+C:\Projects\DipCoater\csharp\bin\Debug\DipCoater.pdb
+C:\Projects\DipCoater\csharp\obj\Debug\DipCoater.exe
+C:\Projects\DipCoater\csharp\obj\Debug\DipCoater.pdb
